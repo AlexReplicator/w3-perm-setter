@@ -32,7 +32,7 @@
 
 Если ваш проект еще не создан и не подключен к Git:
 
-``
+
 ```
 mkdir -p /path/to/your/project/ 
 cd /path/to/your/project/ 
